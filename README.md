@@ -1,5 +1,5 @@
 #flandmarks
-#It is modifed based on DLIB
+It is developed with on DLIB
 
 Step 01:
     cd flandmarks
